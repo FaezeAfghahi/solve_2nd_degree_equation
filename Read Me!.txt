@@ -1,0 +1,16 @@
+solve a 2nd degree equation
+
+A polynomial having degree 2 is considered a second-degree equation 
+and it is also called a quadratic equation. 
+The standard form of the second-degree equation is ax2+bx+c=0. 
+Delta in the second-degree equation is used to find the type of roots that polynomial has.
+If the Delta value for a polynomial is greater than zero (Delta>0) then the polynomial has
+two real distinct roots. If the Delta value for a polynomial is equal to zero (Delta=0) 
+then the polynomial has only one root. 
+If the Delta value is less than zero (Delta<0) then the polynomial has two imaginary roots.
+
+If the quadratic equation is of form ax2+bx+c=0
+then the formula for finding the delta is given below-
+
+Delta = b2-4ac
+
